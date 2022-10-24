@@ -1,1 +1,1 @@
-# Multivariate_Geoststatistics
+# Multivariate_Geostatistics
